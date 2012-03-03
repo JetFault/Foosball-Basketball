@@ -1,0 +1,11 @@
+Game Prototype for Game Design course at Rutgers University.
+
+The code is meant to be absolute trash, don't judge me based on that :)
+
+The idea was to have balls shooting up and you have to bounce the balls into your own bucket. The bucket is supposed to rotate like a scale, however, inverted. The more balls in your bucket make your side lighter. This is a positive feedback loop for the winning player as the middle wall is longer than the outer one, which means more balls will fall off the bucket if you are losing, thus causing you to lose faster >:)
+
+I'm not that much of a fan with the idea, at one point it was kind of like foosball.
+
+This uses LWJGL and Box2D.
+
+First time using LWJGL and it is pretty cool. Nice framework but there are some annoyances.
